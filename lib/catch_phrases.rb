@@ -3,6 +3,7 @@ def mario
   phrase = "It's-a me, Mario!"
   puts phrase
 end
+end
 
 def toadstool
   puts status
