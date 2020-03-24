@@ -10,3 +10,5 @@ end
 
 def link
   take = "It's Dangerous To Go Alone! Take This."
+  puts take
+end
