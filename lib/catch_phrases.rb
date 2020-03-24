@@ -14,6 +14,6 @@ def link
 end
 
 def all_phrases
-  phrase = status
+  all = phrase, status, take
   puts phrase
 end
