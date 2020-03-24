@@ -14,8 +14,8 @@ def link
 end
 
 def all_phrases
-  all = phrase
-  all = status
-  all = take
+  all = mario
+  all = toadstool
+  all = link
   puts all
 end
