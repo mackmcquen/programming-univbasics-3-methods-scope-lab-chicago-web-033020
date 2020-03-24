@@ -15,5 +15,7 @@ end
 
 def all_phrases
   all = phrase
+  all = status
+  all = take
   puts all
 end
